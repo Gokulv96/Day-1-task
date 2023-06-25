@@ -1,0 +1,6 @@
+List of HTTP methods?
+Ans:
+Get - To read data from server (read)
+Post- To create new data to server (create)
+Put- To update existing data in server (update)
+Delete- To delete data from server (delete)
